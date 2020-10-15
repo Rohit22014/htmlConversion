@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2sZqI+S+xZVEkc8tuvM+eLpaMuJnAmXgkgZpgRGc3FsADlxUYIF77qjCjczBxAoS64aQghXej86VcxJPFbEoHQ==",
+  "success": true,
+  "projectFilePath": "C:\\College\\CS264\\html Conversion\\html Conversion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rohit\\.nuget\\packages\\htmlagilitypack\\1.11.24\\htmlagilitypack.1.11.24.nupkg.sha512"
+  ],
+  "logs": []
+}

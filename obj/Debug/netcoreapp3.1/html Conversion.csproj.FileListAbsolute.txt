@@ -1,0 +1,15 @@
+C:\College\CS264\html Conversion\bin\Debug\netcoreapp3.1\html Conversion.exe
+C:\College\CS264\html Conversion\bin\Debug\netcoreapp3.1\html Conversion.deps.json
+C:\College\CS264\html Conversion\bin\Debug\netcoreapp3.1\html Conversion.runtimeconfig.json
+C:\College\CS264\html Conversion\bin\Debug\netcoreapp3.1\html Conversion.runtimeconfig.dev.json
+C:\College\CS264\html Conversion\bin\Debug\netcoreapp3.1\html Conversion.dll
+C:\College\CS264\html Conversion\bin\Debug\netcoreapp3.1\html Conversion.pdb
+C:\College\CS264\html Conversion\obj\Debug\netcoreapp3.1\html Conversion.csprojAssemblyReference.cache
+C:\College\CS264\html Conversion\obj\Debug\netcoreapp3.1\html Conversion.AssemblyInfoInputs.cache
+C:\College\CS264\html Conversion\obj\Debug\netcoreapp3.1\html Conversion.AssemblyInfo.cs
+C:\College\CS264\html Conversion\obj\Debug\netcoreapp3.1\html Conversion.csproj.CoreCompileInputs.cache
+C:\College\CS264\html Conversion\obj\Debug\netcoreapp3.1\html Conversion.dll
+C:\College\CS264\html Conversion\obj\Debug\netcoreapp3.1\html Conversion.pdb
+C:\College\CS264\html Conversion\obj\Debug\netcoreapp3.1\html Conversion.genruntimeconfig.cache
+C:\College\CS264\html Conversion\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\College\CS264\html Conversion\obj\Debug\netcoreapp3.1\html Conversion.csproj.CopyComplete
